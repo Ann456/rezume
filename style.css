@@ -11,9 +11,9 @@ body {
   padding-right: 20px;
   font-family: Montserrat;
 }
-.icon {
-  fill: #f353be;
-}
+/* .icon {
+  fill: #030303;
+} */
 
 .wrapper {
   background: #fff;
@@ -62,7 +62,7 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: #fff;
+  color: #d8dadd;
 }
 
 .contacts-social {
@@ -86,7 +86,7 @@ body {
   font-weight: 400;
   line-height: 24px;
   margin-left: 15px;
-  color: #f353be;
+  color: #fff;
 }
 
 .tech-skills-text {
@@ -109,7 +109,7 @@ body {
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
-  color: #f353be;
+  color: #fff;
   margin-left: 15px;
 }
 
@@ -134,7 +134,7 @@ body {
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
-  color: #f353be;
+  color: #fff;
   margin-left: 15px;
 }
 
@@ -186,13 +186,13 @@ body {
   margin-bottom: 10px;
 }
 
-.icon-2 {
+/* .icon-2 {
   fill: #f353be;
   margin-left: 2px;
-}
+} */
 
 .tech-name {
-  color: #595959;
+  color: black;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -224,17 +224,17 @@ body {
 }
 
 .project-text {
-  color: #a8a8a8;
+  color: black;
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
 }
-.project-text-title {
+/* .project-text-title {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
-  color: #f353be;
-}
+  color: #fff;
+} */
 .project-name {
   color: #f353be;
 }
@@ -257,7 +257,7 @@ body {
   color: #f353be;
 }
 .prof-edu-time {
-  color: #a8a8a8;
+  color: black;
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
@@ -271,7 +271,7 @@ body {
   padding-left: 13px;
 }
 .profession-duties-item {
-  color: #595959;
+  color: black;
   font-family: Montserrat;
   font-size: 14px;
   font-weight: 400;
