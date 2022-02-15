@@ -170,7 +170,8 @@ body {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
-  color: #f353be;
+  /* color: #f353be; */
+  color: black;
 }
 .description {
   font-size: 12px;
@@ -240,7 +241,8 @@ body {
   color: #fff;
 } */
 .project-name {
-  color: #f353be;
+  /* color: #f353be; */
+  color: black;
 }
 
 .project-link {
@@ -258,7 +260,8 @@ body {
 }
 
 .profession-company {
-  color: #f353be;
+  /* color: #f353be; */
+  color: black;
 }
 .prof-edu-time {
   color: black;
@@ -283,7 +286,8 @@ body {
 }
 
 .education-name {
-  color: #f353be;
+  /* color: #f353be; */
+  color: black;
   font-size: 14px;
   font-weight: 600;
   line-height: 24px;
